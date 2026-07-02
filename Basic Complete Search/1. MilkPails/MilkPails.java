@@ -26,4 +26,7 @@ public class MilkPails{
         pw.println(max);
         pw.close();
     }
+    public static void hello(){
+        System.out.println("Hello World");
+    }
 }
