@@ -42,6 +42,7 @@ public class DiamondCollector {
         pw.close();
     }
 
+    //TODO Rebuild this from scratch
     public static int maxDiamonds(int[] nums, int k, int n){ //Given nums is already sorted
         int left = 0;
     int answer = 1;
