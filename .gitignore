@@ -2,7 +2,7 @@
 #secrets.txt will ignore file named "secrets.txt"
 #*.txt will ignore all txt extensions
 dont_include.txt
-/Notes
+/Notes/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
